@@ -1,2 +1,6 @@
 /vendor
 /.idea
+composer.lock
+/storage/cache/
+/storage/compile/
+/storage/configs/
