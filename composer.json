@@ -1,0 +1,16 @@
+{
+	"require":{
+		"smarty/smarty": "~3.1"
+	},
+	"autoload":{
+		 "psr-4":{
+		 	"App\\": "app/"
+		 }
+	},
+	"repositories": {
+	    "packagist": {
+		"type": "composer",
+		"url": "https://packagist.phpcomposer.com"
+	    }
+	}
+}
